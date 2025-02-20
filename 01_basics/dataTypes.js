@@ -5,7 +5,7 @@ console.log(3+
     3);  // code readability is the higher priority
 
 let say = "Basit" // string dataTypes
-let age = 18
+let age = 22
 
 // number => 
 // BigInt
