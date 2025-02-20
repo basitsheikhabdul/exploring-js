@@ -1,5 +1,5 @@
-const accountId = 12311
-let accountEmail = "skabdulbasit@gmail.com"
+const accountId = 12311 //const cant be changed
+let accountEmail = "skabdulbasit@gmail.com" //always use thsese keyword
 var city = "Jamshedpur"
 country = "India"
 // accountId = 1231
