@@ -6,8 +6,9 @@ country = "India"
 accountEmail = "hello@gmail.com"
 city = "Rourkela"
 country = "Japan"
+let accountState;
 
 /*
 Should Never use var as to declare a variable
 */
-console.table([accountId, accountEmail, city, country]);
+console.table([accountId, accountEmail, city, country, accountState]);
